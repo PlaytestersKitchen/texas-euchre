@@ -6,7 +6,7 @@ The goal is to have the highest hand as early as possible, and take tricks with 
 
 Accumulate points over the course of several rounds and you'll end the game, and lose. Avoid points to win.
 
-Recommended number of players: 3 - 5
+Recommended number of players: 4
 
 ## What You'll Need
 
@@ -17,11 +17,13 @@ Recommended number of players: 3 - 5
 
 Deal five cards to each player. Players take turns being the dealer.
 
+*Note: if playing with three or five players, deal 4 and 6 cards, respectively.*
+
 Place the remaining cards in the center. This is the draw deck.
 
 ## Drawing Up
 
-Starting on the player to the dealer's left, lay down up to five cards face up in front of you.
+Starting on the player to the dealer's left, lay down up to all of your cards face up in front of you.
 Replace that number of cards from the draw pile into your hand. Your turn is now over.
 This continues until a player lays down their hand, signaling the end of the draw phase, moving into the trick taking phase.
 
@@ -230,3 +232,24 @@ Whoever took points last loses. If both players both took points in the same rou
 #### What happens if all players exhaust the deck during the draw phase?
 
 All players forfeit the trick taking round. Everyone is considered to have 0 tricks, and take all points in front of them.
+
+# Variants
+
+### Three Players
+
+All rules are the same except starting hands are four cards.
+
+### Five Players
+
+All rules are the same except starting hands are six cards.
+
+### Six Players
+
+A second deck should be used to accommodate for that many players. Deal seven cards to each player.
+
+### Reverse Texas Euchre
+
+All rules are the same except trick taking becomes a "loser-takes-all" affair.
+
+Instead of trying to have the highest card, players are only concerned with *not* having the lowest card.
+Players who played the lowest card that turn take the trick, and the loser is the one with the most tricks.
