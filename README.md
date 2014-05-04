@@ -29,10 +29,10 @@ The objective of the game is to have the highest cards (on average), as quickly 
 
 ## Laying Down
 
-At the beginning of your turn, if you feel you have the highest hand at the table, lay your cards face down in front of you.
+At the beginning of your turn, if you feel you have the highest hand at the table, lay your cards ***face down*** in front of you.
 This is called throwing down, and signals the last turn until the end of the draw phase.
 
-*This excludes your first turn.* [*See the FAQ.*](#can-i-lay-down-on-the-very-first-round)
+*You cannot throw down on your first turn.* [*See the FAQ.*](#can-i-lay-down-on-the-very-first-round)
 
 ## Last Draw
 
