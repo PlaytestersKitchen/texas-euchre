@@ -226,3 +226,7 @@ You take zero points.
 #### What happens if a game ends with two players who both have the lowest score?
 
 Whoever took points last loses. If both players both took points in the same round together, the one who took the most points that round loses.
+
+#### What happens if all players exhaust the deck during the draw phase?
+
+All players forfeit the trick taking round. Everyone is considered to have 0 tricks, and take all points in front of them.
