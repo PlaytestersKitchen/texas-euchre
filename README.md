@@ -68,6 +68,139 @@ The game ends when any player hits a specified number of points, for instance, 1
 
 When this happens, the player with the least number of points wins.
 
+## Example Round
+
+Four players, A, B, C and D somehow choose Player A to deal the first round.
+
+Player A deals five cards to all players. Play begins with Player B.
+
+### Draw Phase, 1st Round.
+
+No players may throw down this round.
+
+**Player B**: `2♣ 10♦ 10♠ J♥ A♣`
+
+ - discards the 2♣, and draws a new card, 4♥.
+
+(*Player B discards by placing the 2♣ face up, in front of them.*)
+
+**Player C**: `6♦ 8♥ 9♥ 9♣ Q♥`
+
+ - discards the 6♦, and draws a 5♠.
+
+**Player D**: `5♥ 7♥ J♦ J♠ Q♣`
+
+ - discards the 5♥ and the 7♥, and draws a 4♦ and a 5♣.
+
+**Player A**: `4♠ 8♦ 9♠ K♥ K♦`
+
+ - discards the 4♠, and draws a 7♣.
+
+### Draw Phase, 2nd Round.
+
+**Player B**:
+
+Chooses to throw down. They draw no cards, and instead place their hand face down on the table.
+
+**Player C**:
+
+ - discards the 5♠ and draws a 3♣.
+
+**Player D**:
+
+ - discards the 4♦ and the 5♣, and draws a 7♦ and a 3♠.
+
+**Player A**:
+
+ - chooses to draw zero cards.
+
+### Trick Phase, 1st Round
+
+So far the points in front of each player are as follows:
+
+| Player | Cards | Possible Points |
+|--------|------:|----------------:|
+| Player A | 4♠ | 4 |
+| Player B | 2♣ | 2 |
+| Player C | 5♠ 6♦ | 11 |
+| Player D | 4♦ 5♣ 5♥ 7♥ | 21 |
+
+For reference, here is each player's hand:
+
+| Player | Hand |
+|--------|:-----:|
+| Player A | `7♣ 8♦ 9♠ K♥ K♦` |
+| Player B | `4♥ 10♦ 10♠ J♥ A♣` |
+| Player C | `3♣ 8♥ 9♥ 9♣ Q♥` |
+| Player D | `3♠ 7♦ J♦ J♠ Q♣` |
+
+**Player B** leads, plays an A♣.
+
+**Player C** plays a 3♣
+
+**Player D** plays a 3♠
+
+**Player A** plays a 7♣
+
+**Player B** takes the trick, and so collects these cards and places them in a single stack, face down by them.
+
+### Trick Phase, 2nd Round
+
+| Player | Card | Winner? |
+|--------|-----:|:-------:|
+| Player B | 4♥ | |
+| Player C | Q♥ | |
+| Player D | 7♦ | |
+| Player A | K♦ | ✓ |
+
+**Player A** takes the trick, and leads next round.
+
+### Trick Phase, 3rd Round
+
+| Player | Card | Winner? |
+|--------|-----:|:-------:|
+| Player A | K♥ | ✓ |
+| Player B | 10♦ | |
+| Player C | 8♥ | |
+| Player D | J♠ | |
+
+**Player A** takes the trick.
+
+### Trick Phase, 4th Round
+
+| Player | Card | Winner? |
+|--------|-----:|:-------:|
+| Player A | 8♦ | |
+| Player B | J♥ | |
+| Player C | 9♣ | |
+| Player D | Q♣ | ✓ |
+
+**Player D** takes the trick.
+
+### Trick Phase, Final Round
+
+| Player | Card | Winner? |
+|--------|-----:|:-------:|
+| Player D | J♦ | ✓ |
+| Player A | 9♠ | |
+| Player B | 10♠ | |
+| Player C | 9♥ | |
+
+**Player D** takes the trick.
+
+### End of Round Results
+
+| Player | Tricks Taken | Points Earned |
+|--------|------:|----------------:|
+| Player A | 2 | 0 |
+| Player B | 1 | 2 |
+| Player C | 0 | 11 |
+| Player D | 2 | 0 |
+
+Player B takes the points in front of them for not winning first after throwing down.
+
+At this point, the next round begins exactly as the first, except that **Player B** becomes the dealer.
+
 # FAQ
 
 #### Can I lay down on the very first round?
