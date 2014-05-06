@@ -46,7 +46,7 @@ Players do not have to draw cards on the last draw phase turn.
 
 When the player who originally laid down is reached, they are the first to lead in the trick taking phase.
 They lay down a card from their hand, giving each player, starting on the left of the lead, a chance to beat it.
-Higher cards win. Ties are resolved to whomever threw the tying card first.
+Higher cards win. Ties are resolved to whomever threw the tying card last.
 
 Whoever has the highest card takes the trick, and leads with the next card.
 That player should take the cards played that turn, and keep them in a pile next to them to signify one trick taken.
